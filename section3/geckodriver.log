@@ -1,0 +1,15 @@
+1594577641446	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ket\\AppData\\Local\\Temp\\rust_mozprofile.iPWSY8lfdKNS"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594577646367	Marionette	INFO	Listening on port 59177
+1594577646430	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1594055307, line 2923: unreachable code after return statement
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1594055307, line 2923: unreachable code after return statement
+JavaScript error: https://mc.yandex.ru/metrika/tag.js, line 2: SyntaxError: expected expression, got '<'
+1594577693359	Marionette	INFO	Stopped listening on port 59177
+1594578070507	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ket\\AppData\\Local\\Temp\\rust_mozprofile.t9UD173aNJGW"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594578075637	Marionette	INFO	Listening on port 59343
+1594578076038	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1594578078649	Marionette	INFO	Stopped listening on port 59343
